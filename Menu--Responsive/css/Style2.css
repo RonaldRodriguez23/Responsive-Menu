@@ -9,7 +9,7 @@
 }
 
 body{
-    background-color: #1d1d1d;
+    background-color: #ffffff;
 }
 /**Logo**/
 .Logo {
@@ -31,7 +31,7 @@ body{
 
 #btn_open{
     margin-top: 15px;
-    color: #03C5F8;
+    color: #6d03f8;
 }
 
 
@@ -55,7 +55,7 @@ header{
 .menu__side{
     width: 145px;
     height: 100%;
-    background:#03C5F8 ;
+    background:#012832 ;
     position: fixed;
     top: 0;
     left: 0;
