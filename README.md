@@ -18,7 +18,7 @@ A continuación, te proporciono un ejemplo de texto para el README de GitHub par
 
 - **Estilo Personalizado:** La página tiene un diseño único con un toque personal que refleja mi estilo y personalidad.
 
-## Uso
+## Uso2
 
 1. Clona o descarga el repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web para visualizar la página.
